@@ -1,4 +1,4 @@
-*For other versions of OpenShift, follow the instructions in the corresponding branch e.g. ocp-3.9, ocp-3.7, etc
+*Change some parameter to support ocp origin, For other versions of OpenShift, follow the instructions in the corresponding branch e.g. ocp-3.9, ocp-3.7, etc
 
 # CI/CD Demo - OpenShift Container Platform 3.9
 
